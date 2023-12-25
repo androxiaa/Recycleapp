@@ -1,0 +1,30 @@
+<resources>
+    <string name="nome_giochi">Recycleapp</string>
+    <string name="nome">Apex</string>
+    <string name="sito">Steam</string>
+    <string-array name="Nome_App">
+        <item>Apex Legends</item>
+        <item>Secondo</item>
+        <item>Terzo</item>
+        <item>Quarto</item>
+        <item>Quinto</item>
+        <item>Sesto</item>
+        <item>Settimo</item>
+        <item>Ottavo</item>
+        <item>Nono</item>
+        <item>Decimo</item>
+    </string-array>
+
+    <string-array name="Sito">
+        <item>Epic Games</item>
+        <item>Epic Games</item>
+        <item>Epic Games</item>
+        <item>Steam</item>
+        <item>Steam</item>
+        <item>Steam</item>
+        <item>Steam</item>
+        <item>Steam</item>
+        <item>Origin</item>
+        <item>Origin</item>
+    </string-array>
+</resources>
